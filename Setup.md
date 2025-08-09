@@ -7,8 +7,8 @@
 
 # Steps
 
-1. Install VirtualBox and the kali Linux .ova file for VirtualBox.
-2. Install the Mr robot.ova file from vulnhub.
+1. Install VirtualBox (https://www.virtualbox.org/) and the kali Linux .ova file for VirtualBox (https://www.kali.org/get-kali/#kali-virtual-machines).
+2. Install the Mr robot.ova file from vulnhub (https://www.vulnhub.com/entry/mr-robot-1,151/).
 3. Run the VirtualBox file first to set up the virtual machine 
 4. Run the kali Linux.ova file second and name it as you please(do not change other setting if not needed.
 5. Run the mr robot .ova file and treat it as we did on the kali file. (They should both open on virtual box)
